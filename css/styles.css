@@ -29,8 +29,18 @@ article {
     border-bottom: 2px solid #eee;
 }
 
+article:last-child {
+    border-bottom: none;
+}
+
 h2 {
     color: #da291c;
+}
+
+.kfc-section {
+    background-color: #fff9f9;
+    padding: 20px;
+    border-radius: 5px;
 }
 
 .kfc-section h2 {
