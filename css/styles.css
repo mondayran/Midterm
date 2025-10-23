@@ -25,3 +25,11 @@ main {
 h2 {
     color: #da291c;
 }
+
+h3 {
+    color: #333;
+}
+
+section {
+    margin: 20px 0;
+}
