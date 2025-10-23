@@ -60,5 +60,6 @@ img {
     width: 100%;
     max-width: 400px;
     height: auto;
-    margin: 10px 0;
+    display: block;
+    margin: 10px auto;
 }
