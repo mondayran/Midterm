@@ -1,13 +1,12 @@
 # SUBMISSION README
 
 ## Project Information
-**Project:** McDonald's vs KFC Debate Website
-**Course:** MMED 1052 - Multimedia Production
-**Program:** Interactive Media Design
 
-## Contributors
-- yiran (y_zhou251418@fanshaweonline.ca) - McDonald's argument
-- monday (zhouyiran76@gmail.com) - KFC argument
+**Project:** McDonald's vs KFC Debate Website
+
+**Course:** MMED 1052 - Multimedia Production
+
+**Program:** Interactive Media Design
 
 ## Files Included
 - `index.html` - Main webpage with debate content
